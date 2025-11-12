@@ -1,9 +1,13 @@
-<h1>👋 Hi, I’m @VictorOre<h1>
 
-There is not much public on this github profile but more 
-projects will come in the future.
 
-I’m currently working on expanding my knowledge in React.
+<h1>👋 Hi, I’m @VictorOre</h1>
+
+<small>There is not much public on this GitHub profile but more 
+projects will come in the future.</small>
+
+<br>
+
+<small>I’m currently working on expanding my knowledge in React.</small>
 
 <!---
 VictorOre/VictorOre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
