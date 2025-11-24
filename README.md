@@ -4,10 +4,14 @@
 
 <small>There is not much public on this GitHub profile but more 
 projects will come in the future.</small>
-
 <br>
+<h2>Projects</h2>
+<ul>
 
-<small>I’m currently working on expanding my knowledge in React.</small>
+  <li><a href='https://github.com/VictorOre/portfolio-site'>Portfolio Website</a> made with HTML & CSS hosted <a href='https://boisterous-souffle-e7897e.netlify.app'>here</a> via Netify</li>
+  <li>I’m currently working on expanding my knowledge in React⚛</li>
+
+</ul>
 
 <!---
 VictorOre/VictorOre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
