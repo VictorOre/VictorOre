@@ -9,7 +9,7 @@ projects will come in the future.</small>
 <ul>
 
   <li><a href='https://github.com/VictorOre/portfolio-site'>Portfolio Website</a> made with HTML & CSS hosted <a href='https://boisterous-souffle-e7897e.netlify.app'>here</a> via Netify</li>
-  <li>I’m currently working on expanding my knowledge in React⚛</li>
+  <li>I’m currently working on expanding my knowledge in React⚛ and game development in Java.</li>
 
 </ul>
 
