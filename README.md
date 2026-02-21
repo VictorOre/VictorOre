@@ -2,7 +2,9 @@
 
 <h1>👋 Hi, I’m @VictorOre</h1>
 
-<small>There is not much public on this GitHub profile but more 
+I'm a Fullstack Developer with focus on backend, I have a Bachelors degree in Software Technology.
+
+<small>Currently there is not much public on this GitHub profile but more 
 projects will come in the future.</small>
 <br>
 <h2>Projects</h2>
