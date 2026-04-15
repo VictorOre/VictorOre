@@ -10,7 +10,8 @@ projects will come in the future.</small>
 <h2>Projects</h2>
 <ul>
 
-  <li><a href='https://github.com/VictorOre/portfolio-site'>Portfolio Website</a> made with HTML & CSS hosted <a href='https://boisterous-souffle-e7897e.netlify.app'>here</a> via Netify</li>
+  <li><a href='https://github.com/VictorOre/portfolio-site'>Portfolio Website</a> made with HTML & CSS hosted <a href='https://boisterous-souffle-e7897e.netlify.app'>here</a> via Netify.</li>
+  <li><a href='https://github.com/VictorOre/code-snippets'>Code Snippets API</a> made with Node.js usning MongoDB (mongoose).</li>
   <li>I’m currently working on expanding my knowledge in React⚛, Node.js and game development in Java.</li>
 
 </ul>
